@@ -1,0 +1,26 @@
+.nav-item .nav-link{
+    border:none;
+    color: black;
+    font-size: 16px;
+    font-weight: bolder;
+    
+}
+
+.nav-item .nav-link:hover{
+    text-decoration: underline;
+    color: rgb(243, 97, 43); 
+}
+.img-width{
+    width: 100%;
+}
+.first-img-text-align{
+    margin-top: 240px;
+}
+.box {
+ 
+  transition: transform 1.2s ease;
+}
+
+.box:hover {
+  transform: scale(1.1);
+}

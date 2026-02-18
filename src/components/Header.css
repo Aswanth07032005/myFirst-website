@@ -1,0 +1,28 @@
+.logo-width{
+    width: 30px;
+}
+.nav-link{
+    color: black;
+   
+}
+
+.nav-margin-left-align{
+    margin-left: 17px;
+   
+}
+.margin-left-align-second-nav{
+    margin-right: 10px;
+}
+.nav-margin-right{
+  margin-right: 10px;
+}
+
+.nav-margin-left-align:hover{
+    text-decoration: underline;
+    color: rgb(243, 97, 43);
+}
+
+.margin-left-align-second-nav:hover{
+    text-decoration: underline;
+    color: rgb(243, 97, 43);
+}
